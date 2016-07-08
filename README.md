@@ -1,6 +1,3 @@
-# TEST1
-TEST1
-
 Project Get Clean Data
 =====================================
 
@@ -25,8 +22,6 @@ Background of the project
  4. Appropriately labels the data set with descriptive activity names.
  5. Creates a second, independent tidy data set with the average of each variable for each activity and each subject. 
  
- Good luck!
-
 
 Reproducing this work
 -------------------------------
