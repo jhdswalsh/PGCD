@@ -50,7 +50,7 @@ List the key variables in the data table
 
 
 ```r
-key(dtTidy)
+key(Tidy_Data)
 ```
 
 ```
